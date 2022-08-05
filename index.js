@@ -1,1 +1,1 @@
-// let data = 12;
+let data = 12;
